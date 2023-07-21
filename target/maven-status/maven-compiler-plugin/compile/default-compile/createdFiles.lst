@@ -1,0 +1,6 @@
+com/demo/demoDos/dto/RolDTO.class
+com/demo/demoDos/DemoDosApplication.class
+com/demo/demoDos/dto/UsuarioDTO.class
+com/demo/demoDos/entities/Usuario.class
+com/demo/demoDos/enums/ERol.class
+com/demo/demoDos/entities/Rol.class
