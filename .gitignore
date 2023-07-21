@@ -1,0 +1,50 @@
+# Archivos generados por el IDE (Eclipse, IntelliJ, NetBeans, etc.)
+.classpath
+.project
+.settings/
+
+# Carpeta de construcción
+/target/
+
+# Logs
+/log/
+
+# Ficheros de propiedades generados automáticamente
+/application.properties
+
+# Dependencias
+/lib/
+
+# Archivos de configuración específicos del entorno (por ejemplo, para Spring Profiles)
+/src/main/resources/application-*.properties
+
+# Datos de aplicación local
+/src/main/resources/application-local.properties
+
+# Carpeta de compilación para Maven
+/mvnw
+/mvnw.cmd
+
+# Spring Boot Gradle Plugin
+/build/
+
+# Cache de Gradle
+/.gradle/
+
+# Dependencias específicas del IDE
+.idea/
+
+# Dependencias específicas de Maven
+*.iml
+*.ipr
+*.iws
+
+# Dependencias específicas de Gradle
+.gradle/
+
+# Dependencias específicas de Eclipse
+.classpath
+.project
+.settings/
+bin/
+
